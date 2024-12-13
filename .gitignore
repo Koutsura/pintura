@@ -13,10 +13,6 @@ backend/node_modules/
 .env.staging
 
 # Build files
-dist/
-frontend/dist/
-frontend/dist-ssr/
-backend/dist/
 *.local
 
 # Logs
